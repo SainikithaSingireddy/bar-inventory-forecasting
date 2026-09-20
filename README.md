@@ -6,6 +6,12 @@ This project develops a demand forecasting and inventory recommendation system f
 
 The goal is to help reduce stockout risk while avoiding unnecessarily high inventory levels for slow-moving products.
 
+## Live Demo & Repository
+
+* **GitHub Repository:** https://github.com/SainikithaSingireddy/bar-inventory-forecasting
+* **Live Streamlit Dashboard:** https://bar-inventory-forecasting-dewf3ryovusamgcdpeblex.streamlit.app/
+
+
 ## Business Objectives
 
 * Forecast daily alcohol consumption for each bar and brand
