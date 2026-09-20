@@ -1,0 +1,8 @@
+Metric,Value
+Random Forest MAE,98.41703762992803
+Random Forest WAPE (%),176.85022784152292
+Baseline MAE,97.37488556338027
+Baseline WAPE (%),174.97753552266332
+Random Forest MAE on Demand Days,281.9731298290157
+Total Simulated Stockout Days,114.0
+Average Simulated Inventory (ml),811.3604329973708
